@@ -1,4 +1,4 @@
 # Breast-Cancer-Detection
 Logistic | KNN | SVM.SVC | NCA
 
-# Description and Images will be added after the publication stage
+# Description and Images will be added after the approval from the publisher
